@@ -7,7 +7,7 @@ local player = Players.LocalPlayer
 
 local GROUP_ID = 210302272211
 local GROUP_LINK = "https://www.robiox.com.py/communities/210302272211/Lunar Script"
-local ANIME_BG = "rbxassetid://85041320470740"
+local ANIME_BG = "rbxassetid://102177503342365"
 
 --// GUI
 local gui = Instance.new("ScreenGui")
